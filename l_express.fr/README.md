@@ -6,8 +6,8 @@ Sujet : Où respire t-on le mieux en France?
 
 Equipe : Barracuda
 
-Patricipants : 
-- AGR : Mathieu GALLET - Romain ... - Adrien ...
+Participants : 
+- AGR : Mathieu GALLET - Romain Bézier - Adrien ...
 - Polytech : François CHOTARD - Brieuc EVO - Arnaud GUINARD
 - SciencesCom : Marine Nicolas - Maxime
 
