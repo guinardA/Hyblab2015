@@ -1,15 +1,15 @@
 # Descriptif du projet
 
-Média : notre de votre média
+Média : L'Express
 
-Sujet : description du sujet
+Sujet : Où respire t-on le mieux en France?
 
-Equipe : nom de votre équipe
+Equipe : Barracuda
 
 Patricipants : 
-- AGR : 
-- Polytech :
-- SciencesCom :
+- AGR : Mathieu GALLET - Romain ... - Adrien ...
+- Polytech : François CHOTARD - Brieuc EVO - Arnaud GUINARD
+- SciencesCom : Marine Nicolas - Maxime
 
 # Installation
 
